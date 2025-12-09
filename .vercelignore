@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+WORDPRESS_MIGRATION_GUIDE.md
+DEPLOYMENT_GUIDE.md
+TESTING_REPORT.md
+.env
+.env.local
+node_modules
+.DS_Store
+*.log
